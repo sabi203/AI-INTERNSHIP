@@ -1,0 +1,14 @@
+def square(n):
+    return n*n
+
+def cube(n):
+    return n*n*n
+    import operations
+
+num = int(input("Enter number: "))
+print("Square:", square(num))
+print("Cube:", cube(num))
+output:
+Enter number: 4
+Square: 16
+Cube: 64
