@@ -1,0 +1,6 @@
+def largest(a, b, c):
+    print(max(a, b, c))
+
+largest(3, 4, 5)
+output:
+5
