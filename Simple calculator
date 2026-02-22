@@ -1,0 +1,12 @@
+def calc(a, b):
+    print("Add:", a+b)
+    print("Sub:", a-b)
+    print("Mul:", a*b)
+    print("Div:", a/b)
+
+calc(7,3)
+output:
+Add: 10
+Sub: 4
+Mul: 21
+Div: 2.3333333333333335
